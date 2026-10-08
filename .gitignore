@@ -1,0 +1,8 @@
+# Secrets / credentials
+secrets.h
+.env
+
+# Arduino / IDE
+.vscode/
+*.elf
+*.bin
